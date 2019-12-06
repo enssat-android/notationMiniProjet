@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/emails" >
+           <item android:id="@+id/addEmail"
+                android:title="@string/newEmail" />
+            <item android:id="@+id/listEmails"
+                android:title="@string/listEmails" />
+            <item android:id="@+id/resetEmails"
+                android:title="@string/resetEmails" />
+
+</menu>

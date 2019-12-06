@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotationMiniProjet</string>
+
+    <string name="emails">emails</string>
+    <string name="newEmail">new email</string>
+    <string name="listEmails">mailing list</string>
+    <string name="resetEmails">reset mailing list</string>
+
+</resources>
